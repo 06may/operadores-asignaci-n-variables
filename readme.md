@@ -8,8 +8,11 @@ muestre el equivalente en semanas, días y horas.
 ### Ejemplo de salida:
 
 cantidad de horas totales:1500
+
 semanas:8
+
 Dias: 6
+
 Horas: 12
 
 ### codigo 
@@ -45,7 +48,7 @@ Horas: 12
 
     }
 
-###Ejercicio 2: operadores aritméticos con asignación compacta
+### Ejercicio 2: operadores aritméticos con asignación compacta
 1. Analizar el código a continuación y completar
 la tabla correspondiente.
 2. Luego, realizar la codificación para confirmar
@@ -112,6 +115,7 @@ que tus resultados son correctos.
 |  C  |-10|35|
 |  D  |-350|-12250|
 |  E  |0|1|
+
 ### Ejercicio 3: operadores aritmeticos con asignacion multiple(suma y resta)
 
 1. Analizar el código a continuación y completar
@@ -179,8 +183,31 @@ que tus resultados son correctos.
     
     System.out.println(resta);
 
+    System.out.println(“E”);
 
-###Ejercicio 4: operadores aritmeticos con asignacion multiple(producto y division)
+    suma=y+x+x;
+
+    resta=-x-y-y;
+
+    System.out.println(suma);
+
+    System.out.println(resta);
+
+    System.out.println(resta);
+
+
+|-----------|  x  |  y  |suma|resta|
+
+|-----------|-----------|-----------|
+|  A  |5|10|0|0|
+|  B  |5|10|15|-5|
+|  C  |5|10|10|0|
+|  D  |5|10|20|-20|
+|  E  |5|10|20|-20|
+
+
+
+### Ejercicio 4: operadores aritmeticos con asignacion multiple(producto y division)
 
 1. Analizar el siguiente código y completar la
 tabla correspondiente.
@@ -246,16 +273,19 @@ que tus resultados son correctos.
     System.out.println(division);
 
 
-|-----------|  x  |  y  |
+|-----------|  x  |  y  |MULTIPLICACION|DIVISION|
+
 |-----------|-----------|-----------|
-|  A  |||
-|  B  |||
-|  C  |||
-|  D  |||
-|  E  |||
+|  A  |5|10|1|1|
+|  B  |5|10|50|0|
+|  C  |5|10|25|1|
+|  D  |5|10|250|2|
+|  E  |5|10|-50|-2|
 
 
-###Ejercicio 5: operador resto
+
+
+### Ejercicio 5: operador resto
 1. Analizar el código que sigue y completar la
 tabla correspondiente.
 2. Luego, realizar la codificación para confirmar
@@ -317,21 +347,25 @@ que tus resultados son correctos.
 
     System.out.println(n3);
 
-|-----------|  x  |  y  |
+|-----------|  N1  |  N2  |N3|
+
 |-----------|-----------|-----------|
-|  A  |||
-|  B  |||
-|  C  |||
-|  D  |||
-|  E  |||
+|  A  |20|2|0|
+|  B  |15|2|1|
+|  C  |3|20|2|
+|  D  |3|15|0|
+
 
 
 ### Ejercicio 6 : resolver los enunciados desarrolando el codigo
 
 1. Dados n1=5, n2=10, n3=20, informar:
  a) n1+n2
+
  b) n3-n1
+
  c) n1*n3
+
  d) n3/n4
 
 ### codigo
@@ -376,7 +410,9 @@ que tus resultados son correctos.
 1. Dados n1=10, n2=20 y n3=30, informar:
 
 a) El total
+
 b) El promedio
+
 c) El resto entre n2 y n1
 
 ### codigo 
@@ -411,7 +447,7 @@ c) El resto entre n2 y n1
         System.out.pr             
 
        }
-     
+ 
     }
  
 
