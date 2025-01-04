@@ -1,4 +1,4 @@
-#operadores de asignacion y variables
+### OPERADORES DE ASIGANCION Y VARIABLES
 
 ### Ejercicio 1
 
@@ -197,7 +197,6 @@ que tus resultados son correctos.
 
 
 |-----------|  x  |  y  |suma|resta|
-
 |-----------|-----------|-----------|
 |  A  |5|10|0|0|
 |  B  |5|10|15|-5|
@@ -213,6 +212,8 @@ que tus resultados son correctos.
 tabla correspondiente.
 2. Luego, realizar la codificación para confirmar
 que tus resultados son correctos.
+
+### codigo
 
     System.out.println(“A”);
 
@@ -274,7 +275,6 @@ que tus resultados son correctos.
 
 
 |-----------|  x  |  y  |MULTIPLICACION|DIVISION|
-
 |-----------|-----------|-----------|
 |  A  |5|10|1|1|
 |  B  |5|10|50|0|
@@ -290,6 +290,8 @@ que tus resultados son correctos.
 tabla correspondiente.
 2. Luego, realizar la codificación para confirmar
 que tus resultados son correctos.
+
+### codigo
 	
     System.out.println(“A”);
 
@@ -348,7 +350,6 @@ que tus resultados son correctos.
     System.out.println(n3);
 
 |-----------|  N1  |  N2  |N3|
-
 |-----------|-----------|-----------|
 |  A  |20|2|0|
 |  B  |15|2|1|
